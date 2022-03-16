@@ -15,7 +15,7 @@
 'person_age' - idade
 'person_income' - renda
 'person_home_ownership' - casa_propriedade
-'person_emp_length' - tamanho_empresa
+'person_emp_length' - tamanho_emprestimo
 'loan_intent' - intencao_emprestimo
 'loan_grade' - grau_emprestimo
 'loan_amnt' - valor_emprestimo
